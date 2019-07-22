@@ -22,7 +22,7 @@ const App = () => {
         </Fragment>
       </Router>
     </ContactState>
-  )
+  );
 };
 
 export default App;
